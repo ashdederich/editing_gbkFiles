@@ -1,0 +1,9 @@
+##gff-version 3
+#!annotation-date	2022-02-02 13:17:58
+##sequence-region COLDCBCG_1 1 432508
+COLDCBCG_1	pseudofinder	gene	37	802	.	+	.	note=Pseudogene candidate. Reason(s):ORF is 63.1% of the average length of hits to this gene.;locus_tag=COLDCBCG_1_pseudo_00001;old_locus_tag=COLDCBCG_00001
+COLDCBCG_1	pseudofinder	gene	403492	404892	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 15 blast hits.;locus_tag=COLDCBCG_1_pseudo_00002;old_locus_tag=COLDCBCG_1_ign_00277
+COLDCBCG_1	pseudofinder	gene	159474	162187	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=COLDCBCG_1_pseudo_00003;old_locus_tag=COLDCBCG_00149,COLDCBCG_1_ign_00101
+COLDCBCG_1	pseudofinder	gene	114191	114622	.	-	.	note=Pseudogene candidate. Reason(s):Predicted fragmentation of a single gene.;locus_tag=COLDCBCG_1_pseudo_00004;old_locus_tag=COLDCBCG_00110,COLDCBCG_1_ign_00072
+COLDCBCG_1	pseudofinder	gene	42256	42468	.	.	.	note=Pseudogene candidate. Reason(s):Intergenic region with 5 blast hits.;locus_tag=COLDCBCG_1_pseudo_00005;old_locus_tag=COLDCBCG_1_ign_00027
+COLDCBCG_1	pseudofinder	gene	152810	153155	.	-	.	note=Pseudogene candidate. Reason(s):ORF is 64.3% of the average length of hits to this gene.;locus_tag=COLDCBCG_1_pseudo_00006;old_locus_tag=COLDCBCG_00141
